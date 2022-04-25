@@ -1,4 +1,4 @@
 def call(name)
 {
-echo "Welcome my ${name}.....we will have a great time"
+echo "Welcome ${name}.....we will have a great time"
 }
